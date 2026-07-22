@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Warning Received – Action Taken</title><desc id="desc">Preserve the original facts: source, time, position, hazard, movement, and advice.</desc>
+<defs>
+  <linearGradient id="header" x1="0" x2="1"><stop offset="0" stop-color="#071a33"/><stop offset="1" stop-color="#0b3764"/></linearGradient>
+  <linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#d8aa3d"/><stop offset="1" stop-color="#f2c866"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#071a33" flood-opacity=".13"/></filter>
+  <style>
+    .title{font:700 48px Arial,sans-serif;fill:#fff} .subtitle{font:400 23px Arial,sans-serif;fill:#dbe7f3}
+    .cardTitle{font:700 24px Arial,sans-serif;fill:#071a33} .body{font:400 21px Arial,sans-serif;fill:#18324d}
+    .small{font:600 17px Arial,sans-serif;fill:#5e7288} .badge{font:700 20px Arial,sans-serif;fill:#071a33}
+    .panelTitle{font:700 22px Arial,sans-serif;fill:#071a33} .bubble{font:600 19px Arial,sans-serif;fill:#18324d}
+  </style>
+</defs>
+<rect width="1600" height="900" fill="#f4f7fb"/>
+<rect x="0" y="0" width="1600" height="125" fill="url(#header)"/><rect x="0" y="117" width="1600" height="8" fill="url(#gold)"/><text x="70" y="62" class="title">Warning Received – Action Taken</text><text x="72" y="98" class="subtitle">Unit 7 • Visual scenario for discussion and role-play</text><rect x="55" y="160" width="730" height="315" rx="28" fill="#ffffff" stroke="#d9e3ed" filter="url(#shadow)"/><rect x="55" y="160" width="730" height="50" rx="28" fill="#071a33"/><rect x="55" y="185" width="730" height="25" fill="#071a33"/><text x="79" y="193" class="panelTitle" style="fill:#fff">PANEL 1: Receive</text><rect x="93" y="377" width="248" height="62" rx="16" fill="#dce7f2"/><rect x="110" y="392" width="70" height="32" rx="7" fill="#174a82"/><circle cx="217" cy="408" r="16" fill="#d8aa3d"/><rect x="251" y="392" width="72" height="32" rx="7" fill="#8da8c2"/>
+    <circle cx="385" cy="335" r="30" fill="#f0c7a4"/>
+    <path d="M 355 329 Q 385 290 415 329" fill="#071a33"/>
+    <rect x="342" y="367" width="86" height="92" rx="24" fill="#0b3764"/>
+    <rect x="378" y="367" width="14" height="48" fill="#d8aa3d"/>
+    <circle cx="395" cy="333" r="3" fill="#071a33"/>
+    <rect x="440" y="238" width="310" height="118" rx="22" fill="#fff" stroke="#d8aa3d" stroke-width="3"/><path d="M 480 356 L 462 384 L 520 356" fill="#fff" stroke="#d8aa3d" stroke-width="3"/><text x="460" y="272" class="bubble"><tspan x="460" dy="0">A navigational warning</tspan><tspan x="460" dy="26">appears on NAVTEX.</tspan></text><rect x="815" y="160" width="730" height="315" rx="28" fill="#f9fbfe" stroke="#d9e3ed" filter="url(#shadow)"/><rect x="815" y="160" width="730" height="50" rx="28" fill="#071a33"/><rect x="815" y="185" width="730" height="25" fill="#071a33"/><text x="839" y="193" class="panelTitle" style="fill:#fff">PANEL 2: Decode</text><rect x="853" y="377" width="248" height="62" rx="16" fill="#dce7f2"/><rect x="870" y="392" width="70" height="32" rx="7" fill="#174a82"/><circle cx="977" cy="408" r="16" fill="#d8aa3d"/><rect x="1011" y="392" width="72" height="32" rx="7" fill="#8da8c2"/>
+    <circle cx="1145" cy="335" r="30" fill="#f0c7a4"/>
+    <path d="M 1115 329 Q 1145 290 1175 329" fill="#071a33"/>
+    <rect x="1102" y="367" width="86" height="92" rx="24" fill="#0b3764"/>
+    <rect x="1138" y="367" width="14" height="48" fill="#2774b8"/>
+    <circle cx="1155" cy="333" r="3" fill="#071a33"/>
+    
+    <circle cx="1265" cy="350" r="30" fill="#f0c7a4"/>
+    <path d="M 1235 344 Q 1265 305 1295 344" fill="#071a33"/>
+    <rect x="1222" y="382" width="86" height="92" rx="24" fill="#0b3764"/>
+    <rect x="1258" y="382" width="14" height="48" fill="#2f8b68"/>
+    <circle cx="1255" cy="348" r="3" fill="#071a33"/>
+    <rect x="1200" y="238" width="310" height="118" rx="22" fill="#fff" stroke="#d8aa3d" stroke-width="3"/><path d="M 1240 356 L 1222 384 L 1280 356" fill="#fff" stroke="#d8aa3d" stroke-width="3"/><text x="1220" y="272" class="bubble"><tspan x="1220" dy="0">Officer identifies time,</tspan><tspan x="1220" dy="26">position, hazard, and</tspan><tspan x="1220" dy="26">movement.</tspan></text><rect x="55" y="520" width="730" height="315" rx="28" fill="#fffaf0" stroke="#d9e3ed" filter="url(#shadow)"/><rect x="55" y="520" width="730" height="50" rx="28" fill="#071a33"/><rect x="55" y="545" width="730" height="25" fill="#071a33"/><text x="79" y="553" class="panelTitle" style="fill:#fff">PANEL 3: Inform</text><rect x="93" y="737" width="248" height="62" rx="16" fill="#dce7f2"/><rect x="110" y="752" width="70" height="32" rx="7" fill="#174a82"/><circle cx="217" cy="768" r="16" fill="#d8aa3d"/><rect x="251" y="752" width="72" height="32" rx="7" fill="#8da8c2"/>
+    <circle cx="385" cy="695" r="30" fill="#f0c7a4"/>
+    <path d="M 355 689 Q 385 650 415 689" fill="#071a33"/>
+    <rect x="342" y="727" width="86" height="92" rx="24" fill="#0b3764"/>
+    <rect x="378" y="727" width="14" height="48" fill="#d8aa3d"/>
+    <circle cx="395" cy="693" r="3" fill="#071a33"/>
+    <rect x="440" y="598" width="310" height="118" rx="22" fill="#fff" stroke="#d8aa3d" stroke-width="3"/><path d="M 480 716 L 462 744 L 520 716" fill="#fff" stroke="#d8aa3d" stroke-width="3"/><text x="460" y="632" class="bubble"><tspan x="460" dy="0">The master and bridge team</tspan><tspan x="460" dy="26">review the warning.</tspan></text><rect x="815" y="520" width="730" height="315" rx="28" fill="#f4f8ff" stroke="#d9e3ed" filter="url(#shadow)"/><rect x="815" y="520" width="730" height="50" rx="28" fill="#071a33"/><rect x="815" y="545" width="730" height="25" fill="#071a33"/><text x="839" y="553" class="panelTitle" style="fill:#fff">PANEL 4: Act</text><rect x="853" y="737" width="248" height="62" rx="16" fill="#dce7f2"/><rect x="870" y="752" width="70" height="32" rx="7" fill="#174a82"/><circle cx="977" cy="768" r="16" fill="#d8aa3d"/><rect x="1011" y="752" width="72" height="32" rx="7" fill="#8da8c2"/>
+    <circle cx="1145" cy="695" r="30" fill="#f0c7a4"/>
+    <path d="M 1115 689 Q 1145 650 1175 689" fill="#071a33"/>
+    <rect x="1102" y="727" width="86" height="92" rx="24" fill="#0b3764"/>
+    <rect x="1138" y="727" width="14" height="48" fill="#2774b8"/>
+    <circle cx="1155" cy="693" r="3" fill="#071a33"/>
+    
+    <circle cx="1265" cy="710" r="30" fill="#f0c7a4"/>
+    <path d="M 1235 704 Q 1265 665 1295 704" fill="#071a33"/>
+    <rect x="1222" y="742" width="86" height="92" rx="24" fill="#0b3764"/>
+    <rect x="1258" y="742" width="14" height="48" fill="#2f8b68"/>
+    <circle cx="1255" cy="708" r="3" fill="#071a33"/>
+    <rect x="1200" y="598" width="310" height="118" rx="22" fill="#fff" stroke="#d8aa3d" stroke-width="3"/><path d="M 1240 716 L 1222 744 L 1280 716" fill="#fff" stroke="#d8aa3d" stroke-width="3"/><text x="1220" y="632" class="bubble"><tspan x="1220" dy="0">Route and watchkeeping</tspan><tspan x="1220" dy="26">precautions are adjusted.</tspan></text>
+</svg>
